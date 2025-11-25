@@ -1,1 +1,1 @@
-# avito-pr-reviewer
+# avito-assigment
